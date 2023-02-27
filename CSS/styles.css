@@ -1,0 +1,58 @@
+div{
+    image-rendering: crisp-edges;
+    background-color: powderblue;
+    text-align: center;
+    margin-left: 0;
+    padding-left: 0x;
+    border-width: 10px;
+    display: grid;
+    place-items: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+    display: block;
+    height: 1px;
+    background-color: aquamarine;
+}
+
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    text-align: center;
+    color: darkslateblue;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    color: darkslateblue;
+}
+
+hr{
+    width: 500px;
+    text-align: center;
+    color: black;
+
+}
+
+p{
+    font-style: italic;
+}
+
+.work-experience {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    accent-color: darkslateblue;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.study-courses{    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    accent-color: darkslateblue;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
